@@ -1,0 +1,3 @@
+export const SET_FIRST_STEP = 'SET_FIRST_STEP'
+export const SET_SECOND_STEP = 'SET_SECOND_STEP'
+export const SET_DEFAULT_FORM = 'SET_DEFAULT_FORM'
